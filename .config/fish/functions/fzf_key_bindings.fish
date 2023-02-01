@@ -1,0 +1,1 @@
+/home/arturexp/.fzf/shell/key-bindings.fish
