@@ -249,4 +249,7 @@ alias upd="/usr/bin/update"
 ## neofetch
 fm6000
 
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+. "$HOME/.cargo/env"
+
